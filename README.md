@@ -1,6 +1,6 @@
 # MEMOTION 2.0 Shared task @ AAAI 2022
 
-## Multimodal Fact-Checking and Hate Speech Detection Workshop - De-Factify Workshop @ AAAI-22
+## First Workshop on Multimodal Fact-Checking and Hate Speech Detection Workshop
 
 [Memotion 2.0](https://aiisc.ai/defactify/memotion_2.html) is the 2nd iteration of the Memotion task which was conducted at Semeval 2020. The challenge consists of three subtasks:
 + Sentiment (positive, negative, and neutral) analysis of memes
