@@ -1,15 +1,16 @@
-#  Affective Movement Recognition (AffectMove) 2021 Challenge and Workshop - ACIIW 2021
+#  Multimodal Fact-Checking and Hate Speech Detection Workshop - De-Factify Workshop @ AAAI-22
 
-## Task 1: Protective Behaviour Detection based on Multimodal Body Movement Data
+[Memotion 2.0](https://aiisc.ai/defactify/memotion_2.html) is the 2nd iteration of the Memotion task which was conducted at Semeval 2020. The challenge consists of three subtasks:
++ Sentiment (positive, negative, and neutral) analysis of memes
++ Overall emotion (humor, sarcasm, offensive, and motivational) classification of memes
++ Classifying the intensity of meme emotions.
 
-$4^{th}$ place at [AffectMove 2021 Challenge](http://www.casapaganini.it/entimement/workshops/2021/Workshop2021_Home.php)
+$4^{th}$ place for task 1 
 
-## Task 2: Detection of Reflective Thinking based on Body Movement Data
-
-$1^{st}$ place at [AffectMove 2021 Challenge](http://www.casapaganini.it/entimement/workshops/2021/Workshop2021_Home.php)
+$1^{th}$ place for task 2 
 
 Name: Kim Ngan Ngan
 
-**PAPER: Multimodal Convolutional Neural Network Model for Protective Behavior Detection based on Body Movement Data** [here](https://ieeexplore.ieee.org/abstract/document/9666290/)
+**PAPER: Little Flower at Memotion 2.0 2022 : Ensemble of Multi-Modal Model using Attention Mechanism in MEMOTION Analysis** 
 
 Code will be updated later
