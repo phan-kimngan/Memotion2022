@@ -9,8 +9,8 @@
 
 $4^{th}$ place for task 1 
 
-$1^{th}$ place for task 2 
-
+$1^{th}$ place for task 2 [link](https://aiisc.ai/defactify/)
+ 
 Name: Kim Ngan Ngan
 
 **PAPER: Little Flower at Memotion 2.0 2022 : Ensemble of Multi-Modal Model using Attention Mechanism in MEMOTION Analysis** 
